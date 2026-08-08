@@ -1,4 +1,4 @@
-# 🚀 AI Resume Screener
+# 🚀 AI Resume Screener and Smart FAQ System
 
 ### AI-Powered Resume Screening & ATS Analysis Platform
 
